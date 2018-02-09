@@ -13,5 +13,19 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="头文件\RenderCore">
+      <UniqueIdentifier>{bf03789b-1758-4ca6-b139-522b899fea5d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\RenderCore\Private">
+      <UniqueIdentifier>{155d1cd1-7ca5-4a19-8da1-bddb62706891}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\RenderCore\Public">
+      <UniqueIdentifier>{4db2caf6-2c3f-4f7c-b70b-41540fa66b85}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="RenderCore\Public\RendorCore.h">
+      <Filter>头文件\RenderCore\Public</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
